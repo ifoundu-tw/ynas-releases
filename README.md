@@ -9,3 +9,5 @@ This public repository is the official binary update channel for YNAS.
 Latest version metadata: [`version-policy.json`](version-policy.json)
 
 YNAS is currently a personal preview. Install packages only on systems you trust and keep an independent backup of important files.
+
+The Windows portable package includes its own Node.js, FFmpeg, and FFprobe runtime. Extract the complete ZIP, then open `YNAS 啟動.vbs`; no separate Node.js or FFmpeg installation is required.
