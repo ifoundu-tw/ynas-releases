@@ -1,0 +1,12 @@
+{
+  "protocolVersion": 1,
+  "publishedAt": "2026-08-09T15:34:44.1071305+00:00",
+  "schemaVersion": 1,
+  "version": "0.1.1",
+  "minSupportedVersion": "0.1.0",
+  "releaseNotesUrl": "https://github.com/ifoundu-tw/ynas-releases/releases/tag/v0.1.1",
+  "sha256": "98ae30876c6431a89776720075515bcc31e27ec132c704497505aad6f346cf7f",
+  "downloadUrl": "https://github.com/ifoundu-tw/ynas-releases/releases/download/v0.1.1/ynas-0.1.1-windows.zip",
+  "size": 35661144,
+  "signature": "Zls9spceMb1fhIQsWGgNAHbgKAXVoju3K8SpvgVO8rJYGH1LXwmFsWFlG6Z4Ds/dpKYYhWLSp7Cqqo19xSNrAw=="
+}
