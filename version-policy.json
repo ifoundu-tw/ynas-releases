@@ -1,12 +1,12 @@
 {
-  "downloadUrl": "https://github.com/ifoundu-tw/ynas-releases/releases/download/v0.1.8/ynas-0.1.8-windows-portable.zip",
-  "protocolVersion": 1,
-  "publishedAt": "2026-08-09T18:26:02.7846154+00:00",
-  "sha256": "9daef6957d54af1657b9239728984282d1c6a454b8aa3a4c0b8a3a3ee5d912c8",
-  "schemaVersion": 1,
-  "version": "0.1.8",
   "minSupportedVersion": "0.1.0",
-  "size": 190071619,
-  "releaseNotesUrl": "https://github.com/ifoundu-tw/ynas-releases/releases/tag/v0.1.8",
-  "signature": "MlvLk+aBaBc+Uu4LkiA1o+XNzXEUH0/zI9yPAECHOPkcUyvu3sKB54/fcPdl/s3kaWj8gSDlD2Nt4GFUb+7nAw=="
+  "publishedAt": "2026-08-10T13:10:48.8054629+00:00",
+  "protocolVersion": 1,
+  "size": 190117029,
+  "sha256": "53c78c828484385ae27a0eaad57aaa8de6221cc712a9a3f9d6d9f3897919132e",
+  "downloadUrl": "https://github.com/ifoundu-tw/ynas-releases/releases/download/v0.1.9/ynas-0.1.9-windows-portable.zip",
+  "version": "0.1.9",
+  "releaseNotesUrl": "https://github.com/ifoundu-tw/ynas-releases/releases/tag/v0.1.9",
+  "schemaVersion": 1,
+  "signature": "nZNbQEzuLZglS7bR/aQ8+VmpbwYh5v9/06RJ0d2CWGOiI+bSr7ecoQFEzm0T72qe4WAupV1Jo/X7ktBebnjvCg=="
 }
